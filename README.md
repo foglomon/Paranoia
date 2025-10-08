@@ -1,7 +1,7 @@
 # Parano!a
 ## The Fear of Death resides in all of us, more in some, less in others, but there are those, whose fear chews them alive and spits them right out,. This, is the story of Evan, and how he battles his fears. What sacrifices will he have to make to be able to survive? That is, if he survives...
 
-### The Code is not posted on github due to file constraints. The Code is available on [Google Drive](https://drive.google.com)
+### The Code is not posted on github due to file constraints. The Code is available on [Google Drive](https://drive.google.com/drive/folders/16VOHa13srXDOH59-SWoYbunid6Ys9gIC?usp=sharing)
 
 **PARANO!A is a game made for DayDream-Delhi, A Game jam hosted in over 100+ cities, on the Theme: Sacrifices Must Be Made**
 
@@ -15,7 +15,7 @@ This game not only requires sacrifices in game, but also in real life, where a p
 
 ### Difficulties faced:
 - The most difficult part was the assets because everything requires creativity.
-- The bugs faced were also a big problem but we managed to overcome them
+- The bugs faced were also a big problem but we managed to overcome them.
 
 
 **AI USED:**
