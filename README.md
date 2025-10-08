@@ -10,7 +10,7 @@ Evan, an individual suffering from a mental disorder which causes immense fear o
 - **First Level:** Evan has to cross the street, but there are a massive amount of cars travelling down the street. He has a few stones that he can throw to stop a car, but that's it.
 - **Second Level:** He travels down the subway, but he notices a person carrying a knife. He blends into the crowd like a regular person. You have to flag and kill him before he kills you, but innocents die in between too!
 - **Last Level:** You have to make a grave choice between Fear and Life which affects Evan's future...
-- 
+
 This game not only requires sacrifices in game, but also in real life, where a person must sacrifice his sanity and muster his patience to be able to pass the test.
 
 ### Difficulties faced:
@@ -18,12 +18,12 @@ This game not only requires sacrifices in game, but also in real life, where a p
 - The bugs faced were also a big problem but we managed to overcome them
 
 
-AI USED:
+**AI USED:**
 AI was used for debugging purposes and to generate cutscenes due to time crunch.
 Some sprites were referenced from https://google.com
-Everything else is original code
+Everything else is original.
 
 ## Credits:
-- ISHMAN SINGH: CODE + Story
-- Ayaskant Sahoo: Menues+Debug
-- Himani Rawat: Audio + Visuals
+- ISHMAN SINGH: C# Code & Story
+- Ayaskant Sahoo: Menues & Debug
+- Himani Rawat: Audio & Visuals
