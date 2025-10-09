@@ -1,4 +1,6 @@
 # Parano!a
+![WhatsApp Image 2025-10-05 at 6 04 01 PM](https://github.com/user-attachments/assets/b949652c-4271-4be2-8cb8-a8a7a1dd8236)
+
 ## The Fear of Death resides in all of us, more in some, less in others, but there are those, whose fear chews them alive and spits them right out,. This, is the story of Evan, and how he battles his fears. What sacrifices will he have to make to be able to survive? That is, if he survives...
 
 ### The Code is not posted on Github due to file size constraints since our project exceeds the maximum limit of 1gb (Github LFS). The Code is available on [Google Drive](https://drive.google.com/drive/folders/16VOHa13srXDOH59-SWoYbunid6Ys9gIC?usp=sharing)
